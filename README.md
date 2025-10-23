@@ -1,3 +1,3 @@
-Written in golang 
-Styled with lipgloss
-Interaction with bubbletea
+- Written in golang 
+- Styled with lipgloss
+- Interaction with bubbletea
