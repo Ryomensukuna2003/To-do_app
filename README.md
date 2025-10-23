@@ -1,0 +1,3 @@
+Written in golang 
+Styled with lipgloss
+Interaction with bubbletea
